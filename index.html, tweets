@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Cool First Webpage</title>
+</head>
+<body>
+  <header>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="tweets.html">Tweets</a></li>
+    </ul>
+  </header>
+  
+  <main>
+    <article>
+      <h1>Welcome to My Cool First Webpage</h1>
+      
+      <h2>About Me</h2>
+      <p>
+        Hello! I'm excited to share my first webpage with you. I'm a beginner web developer, eager to learn and explore the world of HTML, CSS, and JavaScript.
+      </p>
+      
+      <h2>My Interests</h2>
+      <p>
+        I have a wide range of interests, from photography and music to coding and technology. I'm constantly looking for new ways to expand my skills and knowledge.
+      </p>
+      
+      <h3>Favorite Quote</h3>
+      <p>
+        "The only way to do great work is to love what you do." - Steve Jobs
+      </p>
+      
+      <h3>My Website</h3>
+      <p>
+        Feel free to explore my website and learn more about me. Click on the image below to visit my homepage:
+      </p>
+      
+      <a href="tweets.html">Check out my tweets!</a>
+    </article>
+    
+    <aside>
+      <p>placeholder to add comment thread later</p>
+    </aside>
+  </main>
+  
+  <footer>
+    <p>Made by YOUR NAME - <a href="<ANY LINK>" target="_blank">here</a></p>
+  </footer>
+</body>
+</html>
