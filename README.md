@@ -1,2 +1,4 @@
 # fatiabi20
-This is my first repository as in  ALX learner 
+'My first readme' > README.md 
+cat README.md                                                                                      
+My first readme
